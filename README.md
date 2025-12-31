@@ -49,20 +49,20 @@ This demonstrates strong core frontend fundamentals.
 
 ## 📂 Repository Structure
 
-All_Websites/
-│
-├── Complete_Coffee_Website/
-├── Ice_Cream_Website/
-├── Nike_eCom_Website/
-├── Perfume_Ecom_Website/
-├── Portfolio_Website/
-├── Watch_Ecom_Website/
-├── eCom_Website/
-│
-└── README.md
+All_Websites/ <br>
+│ <br>
+├── Complete_Coffee_Website/ <br>
+├── Ice_Cream_Website/<br>
+├── Nike_eCom_Website/<br>
+├── Perfume_Ecom_Website/<br>
+├── Portfolio_Website/<br>
+├── Watch_Ecom_Website/<br>
+├── eCom_Website/<br>
+│<br>
+└── README.md<br>
 
 Each website folder contains:
-- index.html
+- index.html 
 - style.css
 - script.js (if required)
 - assets/ (images, icons, etc.)
